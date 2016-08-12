@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_south_park"
+          android:title="@string/south_park"
+          android:icon="@drawable/ic_south_park"/>
+
+    <item android:id="@+id/action_family_guy"
+          android:title="@string/family_guy"
+          android:icon="@drawable/ic_family_guy"/>
+
+    <item android:id="@+id/action_simpsons"
+          android:title="@string/simpsons"
+          android:icon="@drawable/ic_simpsons"/>
+
+    <item android:id="@+id/action_futurama"
+          android:title="@string/futurama"
+          android:icon="@drawable/ic_futurama"/>
+</menu>
